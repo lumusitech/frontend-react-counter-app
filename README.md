@@ -1,9 +1,9 @@
-# Basic React App
+# Basic React App with unit tests
 
 ## First steps in React
 
 After clone, run:
 
 ```javascript
-yarn;
+pnpm i
 ```
